@@ -1,0 +1,6 @@
+{
+	"name": "KumarIntegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
